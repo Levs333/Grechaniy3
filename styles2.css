@@ -1,0 +1,126 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-size: 25px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.button {
+      background-color:grey ;
+       color: white;
+       text-decoration: none;
+       font-size: 16px;
+       padding: 10px 25px;
+       border-radius: 10px;
+       margin: 40px;
+    
+}
+
+.button2 {
+      background-color:grey ;
+       color: white;
+       text-decoration: none;
+       font-size: 16px;
+       padding: 15px 35px 15px 35px;
+       border-radius: 10px;
+       margin: 40px;
+    
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+.Hi{
+   font-family: i; 
+   text-align: center;
+   font-size: 35px;
+   margin: 15px;
+}
+
+main{
+    background-color: black;
+}
+
+
+
+header a {
+        background-color:grey ;
+       color: white;
+       text-decoration: none;
+       font-size: 16px;
+       padding: 10px 25px;
+       border-radius: 10px;
+       margin: 40px;
+}
+
+
+.country1{
+    
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    border-radius: 35px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+
+.country2{
+    justify-content: right;
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    border-radius: 35px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
